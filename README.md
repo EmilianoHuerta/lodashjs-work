@@ -1,2 +1,2 @@
 # lodashjs-work
-wokring with lodash.js
+working with lodash.js
